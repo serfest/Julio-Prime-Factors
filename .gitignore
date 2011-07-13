@@ -1,0 +1,7 @@
+*.dll
+*.user
+bin/
+obj/
+_Resharper*/
+TestResults/
+*.suo

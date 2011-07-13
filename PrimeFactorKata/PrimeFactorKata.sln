@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorKata", "PrimeFactorKata\PrimeFactorKata.csproj", "{4BC4CFFC-459F-4454-AB55-A94F3B4C5D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorKataTest", "PrimeFactorKataTest\PrimeFactorKataTest.csproj", "{E6C430A1-8583-4574-9BAF-579C5ADD605B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1718C287-3CAD-4070-808F-8DA151C70CD2}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		PrimeFactorKata.vsmdi = PrimeFactorKata.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PrimeFactorKata.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC4CFFC-459F-4454-AB55-A94F3B4C5D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC4CFFC-459F-4454-AB55-A94F3B4C5D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC4CFFC-459F-4454-AB55-A94F3B4C5D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC4CFFC-459F-4454-AB55-A94F3B4C5D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C430A1-8583-4574-9BAF-579C5ADD605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C430A1-8583-4574-9BAF-579C5ADD605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C430A1-8583-4574-9BAF-579C5ADD605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C430A1-8583-4574-9BAF-579C5ADD605B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
